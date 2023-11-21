@@ -10,12 +10,19 @@ Todo App is a personal task management application designed to help you efficien
 
 # Getting Started
 1. Clone the Repository:
+   
 git clone https://github.com/Minhtamtrinh2303/todo_app.git
+
 2. Install Dependencies:
+   
 cd todo_app
+
 npm install
+
 3. Run the Application:
+   
 npm start
+
 Open your browser and go to http://localhost:3000 to use Todo App.
 
 # Contribution
